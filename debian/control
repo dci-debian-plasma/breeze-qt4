@@ -1,0 +1,22 @@
+Source: breeze-qt4
+Priority: extra
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: Scarlett Clark <scarlett@scarlettgatelyclark.com>
+Build-Depends: cmake,
+               debhelper (>= 9.0.0),
+               extra-cmake-modules (>= 1.3.0~),
+               kdelibs5-dev,
+Standards-Version: 3.9.5
+Section: kde
+Homepage: https://projects.kde.org/projects/kde/workspace/breeze
+Vcs-Browser: https://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/breeze
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/breeze
+
+Package: kde-style-breeze-qt4
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}, kde-style-breeze
+Description: Widget style for Qt 4 and KDE Software
+ This is the default widget style for KDE's Plasma desktop.  This
+ build has the plugin for with Qt 4.
+ .
+ This package is part of the Breeze theme module.
