@@ -8,6 +8,7 @@ Build-Depends: cmake,
                extra-cmake-modules (>= 1.3.0~),
                kdelibs5-dev,
                pkg-config,
+               libx11-dev,
 Standards-Version: 3.9.5
 Section: kde
 Homepage: https://projects.kde.org/projects/kde/workspace/breeze
