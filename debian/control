@@ -4,8 +4,10 @@ Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Scarlett Clark <scarlett@scarlettgatelyclark.com>
 Build-Depends: cmake,
                debhelper (>= 9.0.0),
+               pkg-kde-tools,
                extra-cmake-modules (>= 1.3.0~),
                kdelibs5-dev,
+               pkg-config,
 Standards-Version: 3.9.5
 Section: kde
 Homepage: https://projects.kde.org/projects/kde/workspace/breeze

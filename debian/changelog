@@ -3,5 +3,6 @@ breeze-qt4 (4:5.0.95-0ubuntu1) UNRELEASED; urgency=medium
   * Initial package
    - build of breeze using -DUSE_KDE4 to build Qt 4 style
   * Rename upstream to breeze-qt4 for this build
+  * Add kubuntu_no-i18n.diff to ignore i18n as advised by upstream
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 01 Oct 2014 15:25:34 +0200
