@@ -1,0 +1,11 @@
+Index: breeze-5.0.95/CMakeLists.txt
+===================================================================
+--- breeze-5.0.95.orig/CMakeLists.txt
++++ breeze-5.0.95/CMakeLists.txt
+@@ -27,6 +27,3 @@ else()
+ endif()
+ 
+ feature_summary(WHAT ALL INCLUDE_QUIET_PACKAGES FATAL_ON_MISSING_REQUIRED_PACKAGES)
+-
+-find_package(KF5I18n CONFIG REQUIRED)
+-ki18n_install(po)
