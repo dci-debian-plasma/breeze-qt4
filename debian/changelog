@@ -1,4 +1,4 @@
-breeze-qt4 (4:5.1.0.1-0ubuntu1) vivid; urgency=medium
+breeze-qt4 (4:5.1.1-0ubuntu1) vivid; urgency=medium
 
   * Initial package
    - build of breeze using -DUSE_KDE4 to build Qt 4 style
