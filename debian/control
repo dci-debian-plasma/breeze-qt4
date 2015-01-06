@@ -8,7 +8,7 @@ Build-Depends: cmake,
                kdelibs5-dev,
                pkg-config,
                libx11-dev,
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Section: kde
 Homepage: https://projects.kde.org/projects/kde/workspace/breeze
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/breeze-qt4.git
