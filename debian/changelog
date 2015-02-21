@@ -1,3 +1,9 @@
+breeze-qt4 (4:5.2.1-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Sat, 21 Feb 2015 15:48:54 -0800
+
 breeze-qt4 (4:5.2.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
