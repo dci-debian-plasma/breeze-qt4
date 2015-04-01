@@ -1,3 +1,10 @@
+breeze-qt4 (4:5.2.2-0ubuntu2) vivid; urgency=medium
+
+  * Add upstream_honour-double-click-settings.diff to fix double click
+    on qt4
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 01 Apr 2015 15:03:18 +0200
+
 breeze-qt4 (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release 
