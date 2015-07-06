@@ -14,7 +14,7 @@ breeze-qt4 (4:5.3.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 21 Apr 2015 13:48:18 +0200
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 04 Jun 2015 21:56:43 +0200
 
 breeze-qt4 (4:5.2.2-0ubuntu2) vivid; urgency=medium
 
